@@ -11,7 +11,7 @@
 - 🧑🏻‍💻 I’m currently learning **Java** and  **Spring Boot**.
 
 - 💻 I’m currently working on [**GPA & CGPA Calculator**](https://github.com/Hamza-Zehri/GPA-CGPA-Calculator) and
-[**BUETK Portal**](https://github.com/Hamza-Zehri/University_Portal).
+[**School Management System (SMS)**](https://github.com/Hamza-Zehri/school-managment-system).
 
 - 🤝🏻 I’m open to collaborating on projects involving **React Native Apps**, **Hacking Tools**, **Full-Stack Web Apps**, **Linux Tools**, **Python Scripts** etc.
 
