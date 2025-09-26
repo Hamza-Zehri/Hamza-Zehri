@@ -10,7 +10,7 @@
 
 - 🧑🏻‍💻 I’m currently learning **Java** and  **Spring Boot**.
 
-- 💻 I’m currently working on [**GPA & CGPA Calculator**](https://github.com/Hamza-Zehri/GPA-CGPA-Calculator) and
+- 💻 I’m currently working on [**Al Farooq Residential School Website**](https://github.com/Hamza-Zehri/alfarooqschool) and
 [**School Management System (SMS)**](https://github.com/Hamza-Zehri/school-managment-system).
 
 - 🤝🏻 I’m open to collaborating on projects involving **React Native Apps**, **Hacking Tools**, **Full-Stack Web Apps**, **Linux Tools**, **Python Scripts** etc.
