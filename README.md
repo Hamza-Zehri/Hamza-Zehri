@@ -10,7 +10,7 @@
 
 - 🧑🏻‍💻 I’m currently learning **Java** and  **Spring Boot**.
 
-- 💻 I’m currently working on [**Al Farooq Residential School Website**](https://github.com/Hamza-Zehri/alfarooqschool) and
+- 💻 I’m currently working on [**REAL ESTATE MANAGEMENT SYSTEM**](https://github.com/Hamza-Zehri/Real-Estate-Manegement-System) and
 [**Khuzdar Gold Gym Management System**](https://github.com/Hamza-Zehri/Khuzdar-Gold-Gym).
 
 - 🤝🏻 I’m open to collaborating on projects involving **React Native Apps**, **Hacking Tools**, **Full-Stack Web Apps**, **Linux Tools**, **Python Scripts** etc.
